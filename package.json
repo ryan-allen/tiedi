@@ -1,0 +1,29 @@
+{
+  "name": "tiedi",
+  "version": "0.0.1",
+  "description": "The little DI module that could.",
+  "main": "tiedi.js",
+  "dependencies": {
+    "brunch": "^1.7.14",
+    "ncurses": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryan-allen/tiedi.git"
+  },
+  "keywords": [
+    "Dependency",
+    "Injection",
+    "DI"
+  ],
+  "author": "Ryan Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryan-allen/tiedi/issues"
+  },
+  "homepage": "https://github.com/ryan-allen/tiedi"
+}
